@@ -467,7 +467,7 @@ section{
     }
     .inicio .row .image img{
         height: auto;
-        width: 75%;
+        width: 100%;
     }
     .menu .box-container .box{
         margin-left: 0;
