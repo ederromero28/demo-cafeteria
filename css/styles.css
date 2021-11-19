@@ -465,6 +465,10 @@ section{
     .inicio .row .content h3{
         font-size: 4rem;
     }
+    .inicio .row .image img{
+        height: auto;
+        width: 75%;
+    }
     .menu .box-container .box{
         margin-left: 0;
         margin-top: 6rem;
